@@ -1,4 +1,4 @@
-![Arkitect Operator](.github/ArkitectOperator_banner.png)
+![Arkitect Operator](.github/ArkitectOperator_hero.png)
 
 # Arkitect Operator
 
